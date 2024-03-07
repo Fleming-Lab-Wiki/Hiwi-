@@ -151,10 +151,10 @@ Remind all the participants who signed up for the study a day before their sessi
 
 <b> Testing day </b>
 
-When you start collecting data you always need the following things on hand: 
+When you start collecting data you always need the following things on hand:
+
 <u> ●	The data privacy statement for participants to sign before the experiment starts  
 [antrag_Fleming_29072021_pbn_lab_v5.0 (1).docx](https://github.com/Fleming-Lab-Wiki/Hiwi-/files/14524892/antrag_Fleming_29072021_pbn_lab_v5.0.1.docx) </u>
-
 <u> ●	A list for participants to sign that they have received payment for their participation </u>
 <u> ●	Enough money to pay all participants for the day (ask your researcher) </u>
 <u> ●	Other materials needed for testing (i.e. test for colour blindness if necessary) </u>
@@ -183,13 +183,9 @@ Select “Create a new study” under “Add New Study”.
 ![image](https://github.com/Fleming-Lab-Wiki/Hiwi-/assets/162586445/ddf858ca-f5a1-409a-97dd-c7cfd3aa3632)
 
 
-
-
-
 Now you can select a study type according to your needs. Usually you will use a Standard Study. You can select Paid or Credit as payment. 
 In case you want to offer both options and let participants choose whether they want credit or payment the SONA researcher guide suggests that you “select credit and note in the study description that payment is an option, too. For participants who get payment, the researcher grants them 0 credits (so the participation is noted correctly) and marks in the comments that they were paid instead (so it’s clear to everyone).”
 Then press “continue”. 
-
 
 
 ➡
@@ -207,11 +203,11 @@ You can request to be informed about cancellation and sign ups. Please note that
 You can add these extras via Advanced settings (you find those just below the “Add This Study” Button). 
 ________________________________________
 
-Study approval 
+# Study approval 
 If you have created a study successfully your study needs to be approved before it is visible for potential participants.
 Turn to your respective administrator to get your study approved. The build-in function of SONA does not suffice. Write an email with the name of the study to your administrator to get it approved. As described in page 9, Sandra Dorsch is the SONA admin for the Fleming Lab. Please email her for study approval. (You can find other SONA administrators here.) 
 
-How to grant VP-Credit 
+# How to grant VP-Credit 
 If you have created the study and recruited all participants via SONA you can grant credit as follows: 
 Go to your study and select “View and administer time slots” in the study menu. Select “all time slots” so you can find the concerning slot. To grant credit, press “Modify”.
  
@@ -240,29 +236,9 @@ For other questions have a look at the SONA Researcher Guide:
 
 
 
-
-
-
-
-
-
-How to extend your contract
+# How to extend your contract
 
 It´s great that you want to stay in our Lab! To extend the contract please contact Filipp at least 8 weeks before your original contract ends. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
