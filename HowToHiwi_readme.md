@@ -35,51 +35,55 @@ How to extend your contract	15
 
  
 # A Checklist before you start 
-●	Do you have your key? 
-●	Can you be found on our website? 
-●	https://www.allpsych.uni-giessen.de/fleminglab/people.htm#Hiwi 
-●	Have you signed your contract and sent it to your admin?
-●	Have you joined the Hiwi chat on Slack? 
-●	Do you have an excel file/ word document to keep an overview of the actual hours you worked?
-●	Do you have a “Stundenzettel für Hilfskräfte“ to copy and hand in to Sandra Dorsch?
+ <ul> ●	Do you have your key? </ul>
+<ul> ●	Can you be found on our website? https://www.allpsych.uni-giessen.de/fleminglab/people.htm#Hiwi  </ul> 
+<ul> ●	Have you signed your contract and sent it to your admin? </ul>
+<ul> ●	Have you joined the Hiwi chat on Slack? </ul>
+<ul> ●	Do you have an excel file/ word document to keep an overview of the actual hours you worked? </ul>
+<ul> ●	Do you have a “Stundenzettel für Hilfskräfte“ to copy and hand in to Sandra Dorsch? </ul>
  
-If you cannot tick all the boxes then you should do something about it. 
+*If you cannot tick all the boxes then you should do something about it.*
  
 
 # Important Links and login information
-Our website: 
+<ul> <b> Our website: </b>
 https://www.allpsych.uni-giessen.de/fleminglab/ 
-Here you can find a collection of published papers, all your colleagues and more
-Our LabCalendar: 
+Here you can find a collection of published papers, all your colleagues and more </ul>
+<ul> <b> Our LabCalendar: </b>Our 
 https://violet.allpsych.uni-giessen.de/index.php/login 
 Here you can check if the Lab you need to use is available and book the Lab if you need it. 
 Login: labcalendar Password : Please ask any lab member and they will tell you
 Shape Lab: Room 353 (there is another password to login the testing room computer, please ask any Fleming lab member)
-Haptic Lab: Room 333
-Slack 
+Haptic Lab: Room 333 </ul>
+<ul> <b> Slack </b>
 https://app.slack.com/client/T01063MJ4LE/C02K8QUREBA
-The Hiwi chat is for all information concerning Hiwis or data collection. A short introduction when you start would be nice. You can write in here if you are looking for your next task. 
-Rundmail 
+The Hiwi chat is for all information concerning Hiwis or data collection. A short introduction when you start would be nice. You can write in here if you are looking for your next task. </ul>
+<ul> <b> Rundmail </b>
 https://www.uni-giessen.de/de/fbz/svc/hrz/svc/email/e-mail-verteiler/rundmail-auftrag
 Use this link when you need to send a Rundmail to invite participants to your experiment. 
-For further information check the section “Rundmail”. 
-Doodle
+For further information check the section “Rundmail”. </ul>
+<ul> <b> Doodle </b> 
 https://doodle.com/dashboard
-You can use Doodle to schedule participants. To get full access to all settings you need a premium account. To get one ask Filipp. Until you have an premium account a basic account works as well.
-SONA 
+You can use Doodle to schedule participants. To get full access to all settings you need a premium account. To get one ask Filipp. Until you have an premium account a basic account works as well. </ul>
+<ul> <b> SONA </b>
 https://uni-giessen.sona-systems.com
-Here you can set up a study and schedule participants and grant VP-Stunden. Currently not all students and departments use this platform. However that should change in the future which is why you should have a look at this as well.  
+Here you can set up a study and schedule participants and grant VP-Stunden. Currently not all students and departments use this platform. However that should change in the future which is why you should have a look at this as well. </ul>
  
 
 # How to plan an experiment: 
+
 If you are supposed to run an experiment, always ask (yourself) the following questions: 
-●	How many participants do we need? 
-●	How long does the experiment take? (If you are not sure, do a test run and maybe ask a second person to do it) 
-●	Is there a deadline? 
-●	Can we grant VP-Stunden? If yes, who needs to sign them and when will they be in the Lab (so students can find them)?
-●	Do I have enough hours to run the whole experiment or do I need to ask another Hiwi to help? 
+
+<ul> ●	How many participants do we need? </ul>
+<ul> ●	How long does the experiment take? (If you are not sure, do a test run and maybe ask a second person to do it) </ul>
+<ul> ●	Is there a deadline? </ul>
+<ul> ●	Can we grant VP-Stunden? If yes, who needs to sign them and when will they be in the Lab (so students can find them)? </ul>
+<ul> ●	Do I have enough hours to run the whole experiment or do I need to ask another Hiwi to help? </ul>
+
 When you can answer all these questions you can start to set up the experiment/ invitation. 
+
 You should start with scheduling the time slots via Doodle or SONA. For the first day of running the experiment it's always helpful if the researcher is with you in case there is a problem with the code. So make sure to schedule (the first day at least) accordingly. 
+
 When creating the time slots make sure to leave a little break between two appointments, especially if the time participants require to do the experiment varies a bit. 
 When you have scheduled your time slots, check the Lab Calendar if the Lab you are using is free and block the Lab for the periods you are using it. If you find that the Lab is occupied, change your schedule accordingly. Of course, you can check the Lab before you schedule the time slots – but only block it when you are really using it. 
 
