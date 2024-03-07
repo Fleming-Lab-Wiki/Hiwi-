@@ -152,10 +152,13 @@ Remind all the participants who signed up for the study a day before their sessi
 <b> Testing day </b>
 
 When you start collecting data you always need the following things on hand: 
-●	The data privacy statement for participants to sign before the experiment starts  
-●	A list for participants to sign that they have received payment for their participation
-●	Enough money to pay all participants for the day (ask your researcher) 
-●	Other materials needed for testing (i.e. test for colour blindness if necessary)
+<u> ●	The data privacy statement for participants to sign before the experiment starts  
+[antrag_Fleming_29072021_pbn_lab_v5.0 (1).docx](https://github.com/Fleming-Lab-Wiki/Hiwi-/files/14524892/antrag_Fleming_29072021_pbn_lab_v5.0.1.docx) </u>
+
+<u> ●	A list for participants to sign that they have received payment for their participation </u>
+<u> ●	Enough money to pay all participants for the day (ask your researcher) </u>
+<u> ●	Other materials needed for testing (i.e. test for colour blindness if necessary) </u>
+
 Now you are good to go! 
 
 # Scheduling an experiment via SONA
@@ -190,24 +193,6 @@ Then press “continue”.
 
 
 ➡
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Now you can specify details concerning your study. 
